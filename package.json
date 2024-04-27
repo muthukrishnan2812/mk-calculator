@@ -1,0 +1,27 @@
+{
+  "name": "mk-npm-calculator",
+  "version": "1.0.0",
+  "description": "calculator for add,sub,mul,div",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthukrishnan2812/mk-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "add",
+    "sub",
+    "mul",
+    "div"
+  ],
+  "author": "Muthu Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthukrishnan2812/mk-calculator/issues"
+  },
+  "homepage": "https://github.com/muthukrishnan2812/mk-calculator#readme"
+}
