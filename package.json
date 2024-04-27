@@ -1,6 +1,6 @@
 {
   "name": "mk-npm-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculator for add,sub,mul,div",
   "main": "index.js",
   "type": "module",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/muthukrishnan2812/mk-calculator/issues"
   },
-  "homepage": "https://github.com/muthukrishnan2812/mk-calculator#readme"
+  "homepage": "https://github.com/muthukrishnan2812/mk-calculator#readme",
+  "dependencies": {
+    "mk-npm-calculator": "^1.0.0"
+  }
 }
